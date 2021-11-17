@@ -1,0 +1,38 @@
+
+form .nm-usuario{
+	margin-top: 10px;
+}
+
+form .genero-form {
+	display: flex;
+	flex-direction: column;
+}
+
+form .genero-form ul li{
+	list-style: none;
+	display: flex;
+	align-items: center;
+}
+
+
+form .genero-form ul li p{
+	margin: 0 10px
+
+}
+
+form .label-genero{
+	font-size: 1.2em;
+    margin: 10px 0;
+    color:black;
+}
+
+form input[type=radio]{
+	display: block;
+}
+
+form .genero{
+	font-size: 1em;
+    margin: 10px 0;
+    color:black;
+}
+
